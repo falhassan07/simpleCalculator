@@ -1,3 +1,5 @@
+"""Simple Calculator to perform addition, subtraction, multiplication and division operations"""
+
 from art import logo
 
 
